@@ -55,16 +55,6 @@ I wrestle with Git internals and win. Contributions include:
 
 ---
 
-## ⚙️ GitHub Stats & Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayatheerthkulkarni&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=jayatheerthkulkarni&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
 ## 🐍 Random Dev Energy
 
 ![snake gif](https://github.com/jayatheerthkulkarni/jayatheerthkulkarni/blob/output/github-contribution-grid-snake.svg)
