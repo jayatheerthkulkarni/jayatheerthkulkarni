@@ -4,7 +4,7 @@
 Open source contributor • Systems thinker • Builder of tools that don’t suck
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+fix+edge+case+bugs+in+Git.;I+break+shit+to+understand+it.;Clean+diffs+or+die+trying." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=I+fix+edge+case+bugs+in+Git.;I+break+stuff+to+understand+it.;Clean+diffs+or+die+trying." alt="Typing SVG" />
 </p>
 
 ---
@@ -55,6 +55,3 @@ I wrestle with Git internals and win. Contributions include:
 
 ---
 
-## 🐍 Random Dev Energy
-
-![snake gif](https://github.com/jayatheerthkulkarni/jayatheerthkulkarni/blob/output/github-contribution-grid-snake.svg)
