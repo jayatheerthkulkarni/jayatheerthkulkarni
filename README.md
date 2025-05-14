@@ -66,4 +66,4 @@ Links:
 
 ## Philosophy
 
-Learn deeply. Contribute early. Share often.
+Meh it's not like I'm Ratan Tata come on!! I got no philosophy
