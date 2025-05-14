@@ -1,47 +1,46 @@
 # Jayatheerth Kulkarni
 
-Computer Science & Engineering student at Geethanjali College of Engineering and Technology  
-Open source contributor | Systems thinker | Tools-for-learning builder
+**Computer Science & Engineering student** at Geethanjali College of Engineering and Technology  
+Open source contributor • Systems thinker • Builder of tools that don’t suck
 
 ---
 
-## Projects
+##  Projects
 
-### Gink — AI-Powered Learning Tool  
-A tool that converts books into interactive, card-based learning formats using structured NLP techniques.  
-- Focused on high retention through atomic content
-- Combines backend processing and clean frontend architecture
-- Designed for students and educators to learn faster and better
+###  Gink — AI-Powered Learning Tool
+Transforms books into interactive, card-based formats using NLP.
 
----
-
-## Open Source Contributions
-
-### Git (The Version Control System)
-
-I’ve submitted multiple patches to the Git project involving:
-- Fixing edge-case behavior in pathspec glob handling
-- Resolving incorrect stash messages in presence of submodules
-- Improving submodule add logic to avoid silent misconfiguration
-- Adding test coverage and updating documentation
-
-Links:
-- [My commits in Git](https://github.com/git/git/commits?author=jayatheerthkulkarni2005%40gmail.com)
-- [Mailing list discussions](https://lore.kernel.org/git/)
+- Atomic content design = high retention
+- Backend: [Tech stack here, e.g., Python, FastAPI]
+- Frontend: [React/Tailwind? Something spicy]
+- Built for students and educators to learn faster & smarter
 
 ---
 
+##  Open Source Contributions
 
-## Contact
+### Git — the version control beast
+Contributions include:
+
+-  Fixing wildcard pathspec expansion for filenames like `arr[2]`, `f*`, `?`, etc.
+-  Resolving incorrect `stash` messages when submodules are involved
+-  Preventing `.gitmodules` config overwrite on reused paths
+-  Adding test coverage and documentation improvements
+
+**Links:**
+
+- [Commits in Git](#) *(https://github.com/git/git/commits/master/?author=jayatheerthkulkarni)*
+
+---
+
+## Contact Me
 
 - GitHub: [jayatheerthkulkarni](https://github.com/jayatheerthkulkarni)
-- Email: jayatheerthkulkarni2005@gmail.com
+- Email: jayatheerthkulkarni2005@gmail.com *(fastest response)*
 - Blog: [blog.jayatheerth.com](https://blog.jayatheerth.com)
-
-  Please email me to the above email if you want the fastest response !!
 
 ---
 
 ## Philosophy
 
-Meh it's not like I'm Ratan Tata come on!! I got no philosophy
+> I'm not Ratan Tata. I'm just a dude who hates bugs and loves clean diffs.
