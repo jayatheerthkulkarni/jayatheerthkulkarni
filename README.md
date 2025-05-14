@@ -5,12 +5,6 @@ Open source contributor | Systems thinker | Tools-for-learning builder
 
 ---
 
-## About Me
-
-I'm currently exploring the internals of systems and developer tools, with a strong focus on contributing to real-world open source software like Git. I enjoy breaking things to understand how they work and fixing them with clarity and precision.
-
----
-
 ## Projects
 
 ### Gink — AI-Powered Learning Tool  
@@ -37,30 +31,14 @@ Links:
 
 ---
 
-## Technical Interests
-
-- Git internals and tooling
-- Operating systems and assembly (currently studying CAALP from Morris Mano)
-- Automata theory and formal proofs
-- Building CLI tools, learning platforms, and testable server setups
-- Docker-based development environments with persistent volume management
-
----
-
-## Current Stack
-
-- Languages: C, JavaScript, Python
-- Frameworks: Node.js, Express
-- Tools: Git, Docker, Bash, VS Code
-- Areas: Low-level debugging, API design, learning tools, test automation
-
----
 
 ## Contact
 
 - GitHub: [jayatheerthkulkarni](https://github.com/jayatheerthkulkarni)
 - Email: jayatheerthkulkarni2005@gmail.com
 - Blog: [blog.jayatheerth.com](https://blog.jayatheerth.com)
+
+  Please email me to the above email if you want the fastest response !!
 
 ---
 
