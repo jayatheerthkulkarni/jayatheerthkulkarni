@@ -8,7 +8,6 @@
 
 - Third-year Computer Science student from Geethanjali College of Engineering and Technology  
 - Upstream contributor to **Git**, working on pathspec bugs and submodule stash handling  
-- Active contributor to **GCC Rust** – working on parsing, IR generation, and compiler internals  
 - Built a **collision-free hash algorithm** for all four-character ASCII strings (~81M entries, zero collisions)  
 - Developed a full-stack **offline-first inventory system** for a real-world factory  
 - Finalist at **Smart India Hackathon** for an avatar-based child safety education project  
